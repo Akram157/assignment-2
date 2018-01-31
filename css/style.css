@@ -1,0 +1,78 @@
+/** {
+    margin: 0;
+    padding: 0;
+}*/
+
+.body-class {
+	background-color: #c1cac1;
+	margin:  0;
+	padding:  0;
+	font-family: calibri;
+}
+
+h2 {
+	height: 10px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	text-align: center;
+	font-size: 50px;
+	/*font-weight: 1px;                Have a problem here            */
+	color: #77c17a;
+}
+
+p {
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px;
+	text-align: center;
+	font-size: 20px;
+	color: #4d9c50;
+
+}
+
+/*.table-container {
+	text-align:  center;
+	width: 100%;
+	border: 1px;
+}*/
+
+table {
+	/*text-align: center;*/
+	width: 100%;
+	border: 1px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	vertical-align: middle;
+	border: 3px solid #c2e2c1;
+	border-collapse: collapse;
+	color: #4d9c50;
+	border-spacing: 2px;
+}
+
+td {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+	height: 10px;
+	border: 3px dashed #c2e2c1;
+	border-collapse: collapse;
+	border-spacing: 2px;
+}
+
+th {
+    text-align: center;
+    margin-right: auto;
+	margin-left: auto;
+	border: 3px solid #c2e2c1;
+	border-collapse: collapse;
+	border-spacing: 2px;
+}
+
+/*
+ * Author - Fahim Anwar 
+ */
+
